@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Document xmlns:p="property" Id="Js4tPEtH2dXNbXoZLXt7XN" LanguageVersion="2021.4.0.613" Version="0.128">
-  <NugetDependency Id="KPIpZ9X0vfYLvNuDNtjKY0" Location="VL.CoreLib" Version="2021.4.0-0613-g3afe96c078" />
+<Document xmlns:p="property" Id="Js4tPEtH2dXNbXoZLXt7XN" LanguageVersion="2021.4.0.392" Version="0.128">
+  <NugetDependency Id="KPIpZ9X0vfYLvNuDNtjKY0" Location="VL.CoreLib" Version="2021.4.0-0392-gf2f89fe961" />
   <Patch Id="VBj4OsqYcUfOcpF9TugbVm">
     <Canvas Id="Dnzto31EDzXN7U9rCoRa3b" DefaultCategory="VL.CUE.Share" CanvasType="FullCategory" />
     <!--
@@ -17,6 +17,11 @@
         <Canvas Id="DZP6QpHMUhHNeM245nCJrq" CanvasType="Group" />
         <Patch Id="KQEoFKMqjy2PmEWKNUHoUD" Name="Create" />
         <Patch Id="STTGnmkqdULMiNbzaOjytO" Name="Update" />
+        <!--
+
+    ************************  ************************
+
+-->
         <ProcessDefinition Id="KtauVkR3vBzNGiAibJGt4N">
           <Fragment Id="AasH0DJ5kHeOjV10PuBNTN" Patch="KQEoFKMqjy2PmEWKNUHoUD" Enabled="true" />
           <Fragment Id="Tw4Z0pCCKsJOBdJ7KF3zUG" Patch="STTGnmkqdULMiNbzaOjytO" Enabled="true" />
@@ -24,7 +29,7 @@
       </Patch>
     </Node>
   </Patch>
-  <NugetDependency Id="UqSP0TagBayMdN33znJ8Fr" Location="VL.CoreLib" Version="2021.4.0-0613-g3afe96c078" />
+  <NugetDependency Id="UqSP0TagBayMdN33znJ8Fr" Location="VL.CoreLib" Version="2021.4.0-0392-gf2f89fe961" />
   <NugetDependency Id="AWQdQREDw96LDAW8TFZrNN" Location="VL.SharedMemory" Version="0.0.3" />
   <DocumentDependency Id="GxNAv4dDOXHNEssprBE7mU" Location="./VL.CUE.Core.vl" />
 </Document>
