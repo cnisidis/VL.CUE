@@ -43,7 +43,7 @@
               <ControlPoint Id="OFcaKIWgNh9N8WznXQ6Zuw" Bounds="464,510" Alignment="Bottom" />
             </Node>
             <ControlPoint Id="PM0IIkTMvVeMcXofRcU5zS" Bounds="463,282" />
-            <ControlPoint Id="Oa1r1fmmXT9MMPrBfpeFHB" Bounds="488,322" />
+            <ControlPoint Id="Oa1r1fmmXT9MMPrBfpeFHB" Bounds="488,394" />
             <Pad Id="Ez45UPsjTHCNF80evQYmHn" SlotId="J48Imxc7wFDOOE559G27KQ" Bounds="465,594" />
             <Pad Id="MzYeeqWDxYkQIqYzRw2Xm2" SlotId="J48Imxc7wFDOOE559G27KQ" Bounds="629,424" />
             <Node Bounds="627,455,99,19" Id="GkCpVy63vt4LUjMTDbVxqp">
